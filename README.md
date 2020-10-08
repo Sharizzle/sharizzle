@@ -21,10 +21,12 @@
 
 **About Me!:**
 
+I'm a mechanical engineer turned full-stack web developer. I enjoy creating web apps and backend services using the javascript ecosystem.
+
 - 👨🏽‍💻 I’m currently working on a cool Project :wink:
 - 🌱 I’m currently learning Next.js and C#
 - 📫 How to reach me: [Contact Me](https://sharif.thekanaan.com/contact-me)
-- 📝[ CV](https://sharif.thekanaan.com/wp-content/uploads/2020/08/CV-September-2020.pdf)
+- 📝 [CV](https://sharif.thekanaan.com/wp-content/uploads/2020/08/CV-September-2020.pdf)
 
 **Languages and Frameworks I'm profecient at:**  
 
@@ -39,16 +41,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/gatsby/gatsby.png" height="100"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/express/express.png" height="100"></code>
-
-
-
-
-
-
-
-
