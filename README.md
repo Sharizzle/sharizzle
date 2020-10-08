@@ -1,6 +1,4 @@
 ### Hey there I'm Sharif Kanaan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
-
 <a href="https://www.linkedin.com/in/sharifkanaan/">
   <img align="left" alt="Sharif Kanaan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,6 +14,7 @@
 <a href="https://github.com/Sharizzle">
   <img align="left" alt="Sharif Kanaan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br />
 
 **About Me!:**
 
