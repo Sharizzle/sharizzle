@@ -22,8 +22,8 @@ I'm a mechanical engineer turned full-stack web developer. I enjoy creating web 
 
 - 👨🏽‍💻 I’m currently working on a cool Project :wink:
 - 🌱 I’m currently learning Next.js and Vue
-- 📫 How to reach me: [Contact Me](https://sharif.thekanaan.com/contact-me)
-- 📝 [CV](https://sharif.thekanaan.com/wp-content/uploads/2020/08/CV-September-2020.pdf)
+- 📫 How to reach me: [Contact Me](https://sharif.thekanaan.com/)
+- 📝 [CV](https://sharif.thekanaan.com/CV%20Sharif%20Kanaan.pdf)
 
 **Languages and Frameworks I'm profecient at:**  
 
