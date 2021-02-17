@@ -21,10 +21,10 @@
 
 **About Me!:**
 
-I'm a mechanical engineer turned full-stack web developer. I enjoy creating web apps and backend services using the javascript ecosystem.
+I'm a mechanical engineer turned full-stack web developer. I enjoy creating web apps and backend services using the javascript/typescript and golang ecosystem. Python comes up often too.
 
 - 👨🏽‍💻 I’m currently working on a cool Project :wink:
-- 🌱 I’m currently learning Next.js and C#
+- 🌱 I’m currently learning Next.js and Vue
 - 📫 How to reach me: [Contact Me](https://sharif.thekanaan.com/contact-me)
 - 📝 [CV](https://sharif.thekanaan.com/wp-content/uploads/2020/08/CV-September-2020.pdf)
 
