@@ -18,18 +18,16 @@
 
 **About Me!:**
 
-I'm a mechanical engineer turned full-stack web developer. I enjoy creating web apps and backend services using the javascript/typescript and golang ecosystem. Python comes up often too.
+I'm a mechanical engineer turned software engineer. I enjoy creating web apps, backend services, and general automation tools using the C#/.NET and the node/javascript ecosystems. Golang and Python come up often.
 
 - 👨🏽‍💻 I’m currently working on a cool Project :wink:
-- 🌱 I’m currently learning Next.js and Vue
+- 🌱 I’m currently learning WebAssembly
 - 📫 How to reach me: [Contact Me](https://sharif.thekanaan.com/)
-- 📝 [CV](https://sharif.thekanaan.com/CV%20Sharif%20Kanaan.pdf)
+<!-- - 📝 [CV](https://sharif.thekanaan.com/CV%20Sharif%20Kanaan.pdf) -->
 
 **Languages and Frameworks I'm profecient at:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="100"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="100"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="100"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="100"></code>
@@ -37,4 +35,6 @@ I'm a mechanical engineer turned full-stack web developer. I enjoy creating web 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"></code>
+<code><img height="20" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
