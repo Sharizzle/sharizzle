@@ -17,10 +17,9 @@
 
 <!-- **About Me** -->
 
-I'm a mechanical engineer turned software engineer. I enjoy creating web apps, backend services, and general automation tools using the C#/.NET and the node/javascript ecosystems. Golang and Python come up often too.
+I'm a mechanical engineer turned software engineer. I enjoy creating web apps, backend services, and general automation tools using the Python and the node/javascript ecosystems. Golang and C# come up often too.
 
 - 👨🏽‍💻 I’m currently working on a cool Project :wink:
-- 🌱 I’m currently learning WebAssembly
 - 📫 How to reach me: [Contact Me](https://sharif.thekanaan.com/)
 <!-- - 📝 [CV](https://sharif.thekanaan.com/CV%20Sharif%20Kanaan.pdf) -->
 
